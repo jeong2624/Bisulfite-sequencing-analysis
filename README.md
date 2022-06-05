@@ -15,6 +15,10 @@ our dataset is mice cortex tissues.
 * SRR5195657
 * SRR5195667
 
+#### This is annotation files for DNA methylation tutorial.
+*
+*
+
 #### These are the analysis tools we used.
 * R >= 4.1.1
 * FastQC 0.11.9
