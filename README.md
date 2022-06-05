@@ -16,8 +16,8 @@ our dataset is mice cortex tissues.
 * SRR5195667
 
 #### This is annotation files for DNA methylation tutorial.
-*
-*
+* cpgi.mm10.bed.txt
+* 
 
 #### These are the analysis tools we used.
 * R >= 4.1.1
