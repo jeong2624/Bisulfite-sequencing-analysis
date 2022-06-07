@@ -9,7 +9,8 @@ It is based on the reference paper. ("Multi-tissue DNA methylation age predictor
 #### We used RRBS methylation dataset for DNA methylation tutorial.
 This dataset is male C57BL/6-BABR mice.
 Tissues (Liver, Lung, Heart and Cortex) were isolated from mice at Newborn, 14weeks, 27weeks and 41weeks.
-our dataset is mice cortex tissues. (Download from SRA Explorer)
+
+#### our dataset is mice cortex tissues. (Download from SRA Explorer)
 * SRR5195625
 * SRR5195641
 * SRR5195657
