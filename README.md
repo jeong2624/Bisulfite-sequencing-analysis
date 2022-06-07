@@ -18,7 +18,7 @@ our dataset is mice cortex tissues.
 #### We uploaded these files:
 * Coverage : coverage files after preprocessing step
 * Differentially_methylation_analysis.R : Differentially methylation analysis code
-* Preprocessing_code.pdf : Preprocessing code infomation
+* Preprocessing_code.pdf : Preprocessing code information
 * readBismarkCoverage.R : The function code which it reads bismark coverage file.
 * cpgi.mm10.bed.txt : The mm10 CpG island annotation file
 * mm10_gencode25_enschrconversion.bed.txt : The mm10 transcript annotation file
