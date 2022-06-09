@@ -42,4 +42,5 @@ Tissues (Liver, Lung, Heart and Cortex) were isolated from mice at Newborn, 14we
 * FastQC 0.11.9
 * samtools 1.15.1
 * trim_galore 0.6.7
+* Bismark 0.23.1
 * UmiBam 0.2.0 (https://github.com/FelixKrueger/Umi-Grinder)
