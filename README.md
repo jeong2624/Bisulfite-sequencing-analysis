@@ -11,10 +11,22 @@ This dataset is male C57BL/6-BABR mice.
 Tissues (Liver, Lung, Heart and Cortex) were isolated from mice at Newborn, 14weeks, 27weeks and 41weeks.
 
 #### our dataset is mice cortex tissues. (Download from SRA Explorer)
-* SRR5195625
-* SRR5195641
-* SRR5195657
+* SRR5195663
 * SRR5195667
+* SRR5195679
+* SRR5195653
+* SRR5195657
+* SRR5195660
+* SRR5195671
+* SRR5195637
+* SRR5195641
+* SRR5195645
+* SRR5195649
+* SRR5195675
+* SRR5195621
+* SRR5195625
+* SRR5195629
+* SRR5195633
 
 #### We uploaded these files:
 * Coverage : coverage files after preprocessing step
