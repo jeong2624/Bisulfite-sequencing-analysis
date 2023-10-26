@@ -1,10 +1,14 @@
-## Genomic_data_Science_Class
+## Implementation of DNA methylation analysis in the paper below.
 
-This is DNA methylation tutorial for Genomic Data Science class in 1st semester, 2022 (Graduate class, Soongsil University)
+"Multi-tissue DNA methylation age predictor in mouse", Thomas M. Stubbs et al, Genome Biology, 2017)
 
-This tutorial consists of preprocessing step, alignment step, differentially methylation analysis step and downstrem analysis step.
+#### Project time : 2022.03.09 - 2022.04.30
 
-It is based on the reference paper. ("Multi-tissue DNA methylation age predictor in mouse", Thomas M. Stubbs et al, Genome Biology, 2017)
+#### Description :
+* The project was conducted as part of Geomic Data Science class in the Molecular Life Sciences at Incheon National University, Korea.
+* The purpose of this project is to learn how to analyze DNA methylation datasets.
+* According to this project, we try to replicate result from the paper and know how the genome data science process works.
+* It mainly deals with preprocessing step, alignment step and differentially methylation analysis
 
 #### We used RRBS methylation dataset for DNA methylation tutorial.
 This dataset is male C57BL/6-BABR mice.
