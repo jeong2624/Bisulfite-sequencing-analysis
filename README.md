@@ -5,7 +5,7 @@
 #### Project time : 2022.03.09 - 2022.04.30
 
 #### Description :
-* The project was conducted as part of Geomic Data Science class in the Molecular Life Sciences at Incheon National University, Korea.
+* The project was conducted as part of Geomic Data Science class in the Department of Bioinformatics at Soongsil University, Korea.
 * The purpose of this project is to learn how to analyze DNA methylation datasets.
 * According to this project, we try to replicate result from the paper and know how the genome data science process works.
 * It mainly deals with preprocessing step, alignment step and differentially methylation analysis
