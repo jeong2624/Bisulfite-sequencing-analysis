@@ -8,11 +8,11 @@
 * The project was conducted as part of "geomic data science" class in the Department of Bioinformatics at Soongsil University, Korea.
 * The purpose of this project is to learn how to analyze DNA methylation datasets.
 * According to this project, we try to replicate result from the paper and know how the genome data science process works.
-* It mainly deals with preprocessing step, alignment step and differentially methylation analysis
+* It mainly deals with preprocessing step, alignment step and differentially methylation analysis.
 
 #### We used RRBS methylation dataset for DNA methylation tutorial.
 This dataset is male C57BL/6-BABR mice.
-Tissues (Liver, Lung, Heart and Cortex) were isolated from mice at Newborn, 14weeks, 27weeks and 41weeks.
+Tissues (Liver, Lung, Heart and Cortex) were isolated from mice at Newborn, 14 weeks, 27 weeks and 41 weeks.
 
 #### our dataset is mice cortex tissues. (Download from [SRA Explorer](https://sra-explorer.info/))
 * SRR5195663
