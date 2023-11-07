@@ -1,6 +1,6 @@
 ## Implementation of DNA methylation analysis in the paper below.
 
-"Multi-tissue DNA methylation age predictor in mouse", Thomas M. Stubbs et al, Genome Biology, 2017)
+["Multi-tissue DNA methylation age predictor in mouse"](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1203-5), Thomas M. Stubbs et al, Genome Biology, 2017)
 
 #### Project time : 2022.03.09 - 2022.04.30
 
